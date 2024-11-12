@@ -1,0 +1,21 @@
+package main
+
+import "fmt"
+
+func main() { 
+	var suhu float64
+	fmt.Println("Masukkan suhu :")
+	fmt.Scanf("%f ",&suhu)
+	fmt.Printf("suhu dalam celcius %f\n",suhu)
+
+	var uang uint64
+	fmt.Println("Masukan nominal uang :")
+	fmt.Scanf("%d", &uang)
+	fmt.Printf("uang dalam rupiah: %d\n", uang)
+
+	var nama string
+	fmt.Println("Masukan nama :")
+	fmt.Scanf("%s", &nama)
+	fmt.Printf("nama : %s\n", nama)
+
+}

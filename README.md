@@ -1,0 +1,4 @@
+- Konversi Suhu Celcius ke Fahrenheit : F = 9/5 C + 32
+- Konversi Suhu Celcius ke Kelvin : K = C + 273.15
+- Konversi Suhu Fahrentheit ke Celsius C = (F - 32) x 5/9
+- Konversi Suhu Fahrentheit ke Kelvin K = (F + 459.67) x 5/9
